@@ -49,10 +49,10 @@ Estruturação profissional de projetos front-end
 
 ## Funcionalidades ✨
 
-✔️ Troca de cor do iPhone ao clicar nas opções de cor
-✔️ Efeito visual suave com animação ao trocar a imagem
-✔️ Layout inspirado no site oficial da Apple
-✔️ Página totalmente responsiva para dispositivos móveis
-✔️ Navegação funcional e estilizada
-✔️ Componentes organizados em estrutura limpa (HTML, CSS e JS separados)
+##### Troca de cor do iPhone ao clicar nas opções de cor ✔️
+##### Efeito visual suave com animação ao trocar a imagem ✔️
+##### Layout inspirado no site oficial da Apple ✔️
+##### Página totalmente responsiva para dispositivos móveis ✔️
+##### Navegação funcional e estilizada ✔️
+##### Componentes organizados em estrutura limpa (HTML, CSS e JS separados) ✔️
 
