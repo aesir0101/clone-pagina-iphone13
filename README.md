@@ -1,7 +1,8 @@
 # clone-pagina-iphone13
 
-## link:https://clone-pagina-iphone13.netlify.app/
-<img width="768" height="642" alt="image" src="https://github.com/user-attachments/assets/f7b3f36c-8f07-4b72-b143-7419b3d6b69e" />
+## link: https://clone-pagina-iphone13.netlify.app/
+
+<img width="1008" height="668" alt="image" src="https://github.com/user-attachments/assets/c557d032-f50c-4c35-b8b2-fbcb1b3699f1" />
 
 ## Clone do Site do iPhone 13 Pro 📱
 
