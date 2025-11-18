@@ -6,7 +6,7 @@
 
 ## Clone do Site do iPhone 13 Pro 📱
 
-Um projeto que recria a experiência visual da página oficial do iPhone 13 Pro, trazendo aquela estética minimalista, fluida e premium que a Apple domina — só que feito por você.
+##### Um projeto que recria a experiência visual da página oficial do iPhone 13 Pro, trazendo aquela estética minimalista, fluida e premium que a Apple domina só que feito por você.
 Aqui o foco é aprendizado, evolução de front-end e entrega de valor.
 
 ## Objetivo do Projeto 🚀
